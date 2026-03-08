@@ -77,7 +77,7 @@ Tecnologías utilizadas:
 Java • PostgreSQL • HTML • CSS • JavaScript
 
 ---
-🏆 Programa de Comunicación para PYME — 24 Horas de Innovación FIO
+###🏆 Programa de Comunicación para PYME — 24 Horas de Innovación FIO
 
 Proyecto desarrollado durante el evento "24 horas de innovación" de la Facultad de Ingeniería de Olavarría (FIO).
 
@@ -97,7 +97,8 @@ Colaboración en la integración del sistema para lograr una solución funcional
 
 Tecnologías utilizadas
 
-Visual Basic • Desarrollo Low-Code • Diseño de Interfaces • Trabajo en Equipo
+Visual Basic - Desarrollo Low-Code - Diseño de Interfaces - Trabajo en Equipo
+
 ---
 ### 🧾 Sistema de Comprobantes
 
