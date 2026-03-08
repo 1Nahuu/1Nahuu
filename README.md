@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nahuel Vailati
+<h1 align="center"># 👋 Hola, soy Nahuel Vailati </h1>
 
 💻 **Backend Developer | Java | PostgreSQL | Spring Boot**
 🎓 Estudiante de **Ingeniería en Sistemas**
