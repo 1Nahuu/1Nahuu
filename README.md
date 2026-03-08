@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hola, soy Nahuel Vailati 👋 </h1>
----
+
 <img src="Gemini_Generated_Image_h43psqh43psqh43p.png">
 
 ## 👨‍💻 Sobre mí
