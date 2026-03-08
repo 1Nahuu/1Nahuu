@@ -4,7 +4,7 @@
 🎓 Estudiante de **Ingeniería en Sistemas**
 🚀 Apasionado por el desarrollo de software, la innovación tecnológica y la resolución de problemas.
 
-<img src="Gemini_Generated_Image_h43psqh43psqh43p">
+<img src="Gemini_Generated_Image_h43psqh43psqh43p.png">
 
 ## 👨‍💻 Sobre mí
 
