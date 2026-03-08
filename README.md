@@ -77,8 +77,7 @@ Tecnologías utilizadas:
 Java • PostgreSQL • HTML • CSS • JavaScript
 
 ---
-###🏆 Programa de Comunicación para PYME — 24 Horas de Innovación FIO
-
+### 🏆 Programa de Comunicación para PYME — 24 Horas de Innovación FIO
 Proyecto desarrollado durante el evento "24 horas de innovación" de la Facultad de Ingeniería de Olavarría (FIO).
 
 Durante la competencia trabajé junto a un equipo multidisciplinario para desarrollar un prototipo funcional de un sistema de comunicación para una PYME, orientado a mejorar la interacción y gestión de información dentro de la empresa.
