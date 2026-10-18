@@ -2,151 +2,20 @@
 
 <img src="Gemini_Generated_Image_h43psqh43psqh43p.png">
 
-## 👨‍💻 Sobre mí
-💻 **Backend Developer | Java | PostgreSQL | Spring Boot**
-🎓 Estudiante de **Ingeniería en Sistemas**
-🚀 Apasionado por el desarrollo de software, la innovación tecnológica y la resolución de problemas.
+💻 Backend Developer | Java • Spring Boot • PostgreSQL 🎓 Estudiante de Ingeniería en Sistemas
 
-Soy desarrollador backend con conocimientos en **Java, bases de datos relacionales y desarrollo web**.
-Me especializo en construir aplicaciones con **arquitectura clara, código mantenible y soluciones eficientes**.
+Construyo aplicaciones backend con arquitectura clara, código mantenible y soluciones eficientes. Autodidacta, comprometido y siempre en mejora continua. también disfruto crear interfaces web modernas y dinámicas.
 
-Actualmente me encuentro desarrollando proyectos personales enfocados en:
+🌐 Ver mi portafolio completo
+🌐 **[Ver mi portafolio completo](https://1nahuu.github.io/Portafolio/)**
 
-* Desarrollo **Backend con Java**
-* APIs y servicios web
-* Modelado y consultas avanzadas en **PostgreSQL**
-* Integración entre **frontend y backend**
-* Buenas prácticas de desarrollo
+🛠 Stack
 
-Me caracterizo por ser una persona **comprometida, autodidacta y orientada a la mejora continua**.
+Lenguajes: Java • Python • JavaScript • SQL • C++ • HTML • CSS Backend: Spring Boot • APIs REST • POO Bases de datos: PostgreSQL • PL/pgSQL • MongoDB Herramientas: Git • GitHub • IntelliJ IDEA • DataGrip
 
----
 
-# 🚀 Tecnologías
+Más detalles de proyectos en mi portafolio.
 
-### Lenguajes
-
-* Java
-* Python
-* JavaScript
-* SQL
-* HTML
-* CSS
-* C++
-  
-
-### Backend
-
-* Spring Boot
-* APIs REST
-* Programación Orientada a Objetos
-
-### Base de Datos
-
-* PostgreSQL
-* PL/pgSQL
-* Modelado relacional
-* Optimización de consultas
-
-### Herramientas
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* DataGrip
-* MongoDB Compass
-
----
-
-# 📂 Proyectos Destacados
-
-### 🛍 Sistema de Gestión para Regalería
-
-Aplicación web para administrar ventas y productos.
-
-**Características:**
-
-* Gestión de productos
-* Registro de ventas
-* Conexión con base de datos PostgreSQL
-* Interfaz web HTML/CSS
-* Backend en Java
-
-Tecnologías utilizadas:
-
-Java • PostgreSQL • HTML • CSS • JavaScript
-
----
-### 🏆 Programa de Comunicación para PYME — 24 Horas de Innovación FIO
-Proyecto desarrollado durante el evento "24 horas de innovación" de la Facultad de Ingeniería de Olavarría (FIO).
-
-Durante la competencia trabajé junto a un equipo multidisciplinario para desarrollar un prototipo funcional de un sistema de comunicación para una PYME, orientado a mejorar la interacción y gestión de información dentro de la empresa.
-
-🏅 El proyecto fue reconocido con un premio dentro del evento.
-
-Mi rol en el proyecto:
-
-Desarrollo del Front-End
-
-Diseño de interfaz enfocada en facilidad de uso
-
-Desarrollo rápido del prototipo utilizando Visual Basic como herramienta low-code
-
-Colaboración en la integración del sistema para lograr una solución funcional en tiempo limitado
-
-Tecnologías utilizadas
-
-Visual Basic - Desarrollo Low-Code - Diseño de Interfaces - Trabajo en Equipo
-
----
-### 🧾 Sistema de Comprobantes
-
-Sistema de gestión de comprobantes comerciales.
-
-**Características:**
-
-* Manejo de Facturas, Recibos y Remitos
-* Modelo de datos relacional
-* Consultas SQL complejas
-* Lógica en PL/pgSQL
-
-Tecnologías utilizadas:
-
-PostgreSQL • SQL • PL/pgSQL
-
----
-
-### 📊 Análisis de datos de servicios
-
-Proyecto enfocado en consultas avanzadas y funciones en PostgreSQL.
-
-**Características:**
-
-* Funciones almacenadas
-* Cálculo de promedios y máximos
-* Manejo de rangos de fechas
-* Optimización de consultas
-
-Tecnologías utilizadas:
-
-PostgreSQL • SQL • PL/pgSQL
-
----
-
-# 📈 Actualmente aprendiendo
-
-* Arquitectura de software
-* Calidad de software
-* Ciberseguridad
-* Buenas prácticas en backend
-* Lenguajes y paradigmas
-* Teoria de la informacion
-* Sistemas operativos
-* Redes
-* APIs REST avanzadas
-* Optimización de bases de datos
-
----
 
 # 📫 Contacto
 
