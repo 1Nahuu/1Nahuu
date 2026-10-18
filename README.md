@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hola, soy Nahuel Vailati 👋 </h1>
 
-<img src="Gemini_Generated_Image_h43psqh43psqh43p.png">
+<img src="fondo neggro back.png">
 
 💻 Backend Developer | Java • Spring Boot • PostgreSQL 🎓 Estudiante de Ingeniería en Sistemas
 
